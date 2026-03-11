@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on javascript language<br>👯 I’m looking to collaborate on anything related to js,lua,c,c#,python etc<br>🌱 I’m currently learning c# & javascript<br>💬 Ask me about the language i know<br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052620216443601076?showDisplayName=true)](https://discord.com/users/1052620216443601076)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zen-hub-official-1189265387217490051) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darknessaaditya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aadityabhattarai53) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@itznpg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:npgearly@gmail.com) 
