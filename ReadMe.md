@@ -40,6 +40,6 @@ full-stack web apps and developer tooling.
 
 ---
 
-mail — aadityabhattarai53@gmail.com · discord — `npg.demon`
+mail — npgearly@gmail.com · discord — `npg.demon`
 
 open to internships and interesting problems.
