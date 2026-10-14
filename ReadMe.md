@@ -1,4 +1,7 @@
-﻿![3D GitHub Profile](https://3dgithubprofile.vercel.app/api?name=Itz-Npg&theme=dark&bgColor=0,0,0&titleColor=fff&borderRadius=20&dateFormat=MMMM%20YYYY&excludeRepos=,)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itz-Npg&show_icons=true&theme=dark&hide=prs,issues&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Npg&layout=compact&theme=dark&hide=javascript,html)
+
 
 # Hi, I'm Aaditya 👋
 
@@ -6,37 +9,5 @@
 Creating universes with zeroes and ones.
 Just a boring guy who sometimes codes.
 
-## 📊 Combined Stats
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itz-Npg&theme=dark&utcOffset=0)](https://github.com/Itz-Npg)
 
-### Itz-Npg
-- Public Repositories: 38
-- Private Repositories: 50
-- Total Stars: 42
-- Recently Updated (30 days): 31
-
-### Wumpuspro (Public Only)
-- Public Repositories: 68
-- Private Repositories: 0 (not visible)
-- Total Stars: 132
-- Recently Updated (30 days): 0
-
-### Total
-- Public Repositories: 106
-- Private Repositories: 50
-- Total Stars: 174
-- Recently Updated (30 days): 31
-
-## 💻 Top 5 Languages
-  JavaScript: 49
-  TypeScript: 35
-  Lua: 9
-  Python: 8
-  HTML: 7
-
-## 🚀 Recent Activity
-31 repos updated in the last 30 days
-
-<!--
-  This README is generated using the 3D GitHub Profile service and custom stats.
-  To update the stats, regenerate this file.
--->
